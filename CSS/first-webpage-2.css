@@ -16,6 +16,9 @@ h2 {
   font-size: 28px;
 }
 
+p {
+  font-size: 20px;
+}
 span {
   color: red;
   font-weight: 800;
@@ -23,6 +26,7 @@ span {
 
 li {
   list-style-type: none;
+  font-size: 20px;
 }
 
 .location-title {
