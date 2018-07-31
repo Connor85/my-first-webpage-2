@@ -1,0 +1,36 @@
+* {
+  background: lightgray;
+  margin-top: 0px;
+}
+
+h1 {
+  color: green;
+  font-size: 40px;
+  background: gray;
+  margin-top: 0px;
+  padding-top: 0px;
+  border: black solid 1px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+span {
+  color: red;
+  font-weight: 800;
+}
+
+li {
+  list-style-type: none;
+}
+
+.location-title {
+  font-size: 22px;
+  font-weight: 800;
+}
+
+img {
+  height: 200px;
+  border: black solid 3px;
+}
